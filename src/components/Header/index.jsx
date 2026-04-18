@@ -1,0 +1,9 @@
+import { StyledHeader } from "./styles"
+
+export const Header = () => {
+    return (
+        <StyledHeader>
+            <h1><span>Nu</span> Finance</h1>
+        </StyledHeader>
+    )
+}
